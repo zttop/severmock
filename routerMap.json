@@ -1,0 +1,4 @@
+{
+    "/Login/userInfo.json": "/api/Login/userInfo",
+    "/test.json": "/api/test"
+}
